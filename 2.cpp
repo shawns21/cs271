@@ -6,9 +6,9 @@ int main(){
 int first_int;
 int second_int;
 
-cout << "enter first int: \n";
+cout << "enter the first int: \n";
 cin >> first_int;
-cout << "enter second int: \n";
+cout << "enter the second int: \n";
 cin >> second_int;
 
 if (second_int % first_int == 0){
